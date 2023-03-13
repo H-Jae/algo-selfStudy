@@ -2,6 +2,11 @@
 
 Big - O : Superemum asymptote
 
+<b> Why we know Time Complexity? </b>
+
+-> Optimize!
+
+
 ![Big-O Graph](./image/Big-O.png)
 
 Let's learn the Time Complexity by solving the problem.
